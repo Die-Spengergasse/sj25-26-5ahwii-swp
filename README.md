@@ -8,3 +8,4 @@ Vscode Extensions
 
 - github copilot + chat
 - deno
+- `deno init`
