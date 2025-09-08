@@ -1,8 +1,8 @@
 # sj25-26-5ahwii-swp
 
-## 3.9
+## 3.9 + 8.9
 
-Intro Matura
+HÜ: prisma schema gemäß opentdb.com fertig anpassen
 
 Vscode Extensions
 
