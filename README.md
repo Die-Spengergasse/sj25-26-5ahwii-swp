@@ -1,5 +1,11 @@
 # sj25-26-5ahwii-swp
 
+- Wir werden deno einstweilen wieder bleiben lassen, prisma ist (nach Recherche) noch nicht reif dafür. leider.
+- Categories normalisieren
+- difficulty normalisieren
+- Überlegungen zu uniqueness von Question!
+- git repos ausgraben oder neue?
+
 ## 3.9 + 8.9
 
 HÜ: prisma schema gemäß opentdb.com fertig anpassen
