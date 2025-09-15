@@ -2,8 +2,9 @@
 
 Hü:
 
-- "npx prisma db seed soll die 3 neuen Models anlegen
+- "npx prisma db seed soll die 3 neuen Models anlegen (mit INhalten)
 - Wähle eine Category zum synchronisieren
+- erste Fragen einfüllen
 
 - Wir werden deno einstweilen wieder bleiben lassen, prisma ist (nach Recherche) noch nicht reif dafür. leider.
 - Categories normalisieren
