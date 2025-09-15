@@ -1,5 +1,7 @@
 # sj25-26-5ahwii-swp
 
+Hü: "npx prisma db seed soll die 3 neuen Models anlegen
+
 - Wir werden deno einstweilen wieder bleiben lassen, prisma ist (nach Recherche) noch nicht reif dafür. leider.
 - Categories normalisieren
 - difficulty normalisieren
