@@ -2,6 +2,7 @@
 
 Hü:
 
+- Der Betrieb mit Deno klappt doch: https://docs.deno.com/examples/prisma_tutorial/
 - "npx prisma db seed soll die 3 neuen Models anlegen (mit INhalten)
 - Wähle eine Category zum synchronisieren
 - erste Fragen einfüllen
