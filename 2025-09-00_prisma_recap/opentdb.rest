@@ -1,0 +1,4 @@
+GET https://opentdb.com/api_category.php
+
+###
+GET https://opentdb.com/api.php?amount=1&category=16&difficulty=hard&type=boolean
