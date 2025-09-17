@@ -1,5 +1,8 @@
 # sj25-26-5ahwii-swp
 
+## 2025-09-17
+
+KI: erkläre mir mit Beispielen die ersten 5 SQL Normalformen
 Hü:
 
 - Der Betrieb mit Deno klappt doch: https://docs.deno.com/examples/prisma_tutorial/
