@@ -1,5 +1,12 @@
 # sj25-26-5ahwii-swp
 
+## 2025-09-24
+
+HÜ:
+
+- Ordnung in der STruktur
+- Recherche auf prisma.io: instruments / richtungen / artist anlegen!!
+
 ## 2025-09-17
 
 KI: erkläre mir mit Beispielen die ersten 5 SQL Normalformen

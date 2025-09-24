@@ -1,0 +1,10 @@
+datasource dba {
+    provider = "sqlite"
+    url      = "file:../dev.db"
+}
+
+generator clienta {
+    provider = "prisma-client"
+    output   = "client"
+    runtime  = "deno"
+}
